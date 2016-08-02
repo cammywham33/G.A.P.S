@@ -1,0 +1,5 @@
+#G.A.P.S.
+
+Our group decided to create this app because we realized the number of animals that get lost in the United States is very large, and from that amount many stay lost.  For example, each  year over 20 million pets, in the United States lone, get lost, but only about 8 million end up in pet shelters.  The gap between the 20 million lost and the 8 million that end up in a shelter is huge!  In addition, some of the animals that get lost tend to reproduce proliferently and cause over population in many areas.  For example, in the United States currently there are 70 million stray cats and only 20 million cats and dogs combined that get lost. This signifies that the stray cats are reproducing at an alarming rate, which can be reduced if less cats become lost.
+
+to access G.A.P.S., clone or download this repository and open animal_traker.html in your brower
